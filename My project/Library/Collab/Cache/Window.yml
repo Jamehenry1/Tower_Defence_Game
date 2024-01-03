@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scenes.meta
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scenes/DayTime_DemoScene.unity
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scenes/DayTime_DemoScene.unity.meta
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scenes/DayTime_DemoSceneSettings.lighting
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scenes/DayTime_DemoSceneSettings.lighting.meta
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scenes/NightTime_DemoScene.unity
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scenes/NightTime_DemoScene.unity.meta
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scenes/NightTime_DemoSceneSettings.lighting
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scenes/NightTime_DemoSceneSettings.lighting.meta
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts.meta
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts/CameraFollow.cs
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts/CameraFollow.cs.meta
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts/CollectableBounce.cs
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts/CollectableBounce.cs.meta
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts/Door.cs
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts/Door.cs.meta
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts/FadeScript.cs
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts/FadeScript.cs.meta
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts/MenuButtons.cs
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts/MenuButtons.cs.meta
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts/PlayerMovement.cs
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts/PlayerMovement.cs.meta
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts/SpikeTrap.cs
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts/SpikeTrap.cs.meta
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts/Tile.cs
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts/Tile.cs.meta
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts/TimedAnimations.cs
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts/TimedAnimations.cs.meta
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts/Trigger.cs
+    - Assets/HyperLuminal/2D Fantasy Forest Tileset/Scripts/Trigger.cs.meta
+    - ProjectSettings/ProjectVersion.txt
+    - 
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
