@@ -70,3 +70,6 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+My_project/Builds/The True/My_project_Data/sharedassets2.assets.resS
+My_project/Library/PlayerDataCache/Win64/Data/sharedassets2.assets.resS
